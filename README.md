@@ -123,7 +123,7 @@ Results-driven **QA Test Engineer** with **1.5+ years of experience** in **manua
 ## 📜 Certifications & Automation Projects
 
 ### **Automation Testing Certification**
-- Selenium Automation Testing with Java
+Selenium Automation Testing with Java
 🔗 https://drive.google.com/file/d/1bzq9o44Awh_AqqPH1DPMeREcZpJJipuY/view?usp=drivesdk
 
 ### **QA Automation Mini Project**
